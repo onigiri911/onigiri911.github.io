@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "jekyll-theme-slate"
 title                    : "Arghyanir Giri"
 title_separator          : "-"
 name                     : &name "Arghyanir Giri"
