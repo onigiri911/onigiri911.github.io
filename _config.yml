@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : "dark"
+theme                    : "default"
 title                    : "Arghyanir Giri"
 title_separator          : "-"
 name                     : &name "Arghyanir Giri"
