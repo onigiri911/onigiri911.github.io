@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Quantifying and minimising airborne transmission in indoor ventilated settings, Delft University of Technology, 2027 (expected)
+* M.Tech. in Aerospace engineering, Indian Institute of Technology Kharagpur, 2022
+* B.Tech. in Aerospace engineering, Indian Institute of Technology Kharagpur, 2021
 
 Work experience
 ======
