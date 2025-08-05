@@ -274,6 +274,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-feed
+  # - jekyll-scholar  # Temporarily disabled due to Ruby 3.4 compatibility issues
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
@@ -289,6 +290,13 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+scholar:
+  source: _bibliography
+  bibliography: references.bib
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
 
 # Archives
 #  Type
