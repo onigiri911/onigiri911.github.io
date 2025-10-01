@@ -9,17 +9,8 @@
 
 main:
 
-  #- title: "Projects"
-  #  url: /projects/
-
   - title: "Publications"
     url: /publications/ 
     
-  #- title: "Gallery"
-  #  url: /portfolio/
-    
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
