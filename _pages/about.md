@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I was born in Kolkata, a vibrant city in eastern India, but spent most of my childhood in the western provinces of Rajasthan and Gujarat. Growing up amidst this cultural diversity sparked my curiosity about the world, particularly about airplanes—be it commercial jets soaring through the sky or military aircraft breaking the sound barrier.
+I was born in Kolkata, a vibrant city in eastern India, but spent most of my childhood in the western provinces of Rajasthan and Gujarat. Growing up amidst such rich cultural diversity instilled in me an innate sense of curiosity and a constant desire to learn about the world beyond my immediate surroundings. This openness to explore and understand new things naturally extended to my fascination with flight, whether it was the sight of airplanes soaring overhead or the powerful rockets that carried humans into space. Those moments sparked countless questions in my young mind and marked the beginning of a lifelong curiosity about how things move, fly, and push the boundaries of what is possible.
 
 My fascination with aviation, coupled with a love for physics and mathematics, naturally led me to pursue Aerospace Engineering at the Indian Institute of Technology Kharagpur (IIT KGP). During my time there, I gravitated toward aerodynamics, captivated by its complex yet practical implications. A pivotal experience came with a summer training program at École Supérieure des Techniques Aéronautiques et de Construction Automobile (ESTACA) in Paris, where I got hands-on experience with industrial CFD software and visited renowned wind tunnel facilities at ONERA.
 
